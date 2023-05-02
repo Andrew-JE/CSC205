@@ -2,4 +2,7 @@ Apple
 Banana
 Guava
 Avocado
-Strawberry
+Mango
+Blueberry
+Kiwi
+
